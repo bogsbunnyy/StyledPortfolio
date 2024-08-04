@@ -1,0 +1,166 @@
+* {
+	font-family: "dunkin", monospace;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+h1{
+    font-family: "courier new", sans-serif;
+}
+
+h2{
+    font-family: "dunkin", sans-serif; 
+}
+
+h3{
+    font-family: "dunkin", sans-serif; 
+}
+
+h4{
+    font-family: "courier new", sans-serif;
+}
+
+h5{
+    font-family: "courier new", sans-serif;
+}
+
+nav{
+    padding: 16px;
+    margin-bottom: 4px;
+    background-color: grey;
+    text-align: center;
+}
+
+.nav-link{
+    margin-left: 5px;
+    margin-right: 5px;
+    color: black !important;
+}
+.card{
+    background-color: grey;
+    border: 1px;
+    border-radius: 80px;
+    height: 400px;
+    width: 30.5vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+}
+
+.card-image{
+    height: 300px;
+    width: 25vw;
+    border-radius: 60px;
+}
+
+.card-title{
+    margin: 15px;
+}
+
+.tools-img{
+    height: 100px;
+    width: 100px;
+    border-radius: 80px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.social-img{
+    height: 50px;
+    width: 50px;
+    margin: 1rem;
+}
+
+.form-input{
+    display: block;
+    width: 100%;
+    border: 2px solid grey;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.btn{
+    border: 2px solid white;
+    padding: 10px;
+}
+
+.bg{
+    background-image: url(https://i.ebayimg.com/images/g/-tQAAOSwR75dTWVH/s-l1200.jpg);
+    background-repeat: no-repeat;
+	background-position: center;
+    background-size: cover;
+
+}
+a{
+    text-decoration: none;
+}
+
+form{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+#projects {
+    text-align: center;
+    padding-bottom: 1rem;
+}
+#project-heading{
+    text-align: center;
+    margin: 2rem;
+    margin-bottom: 2.5rem;
+}
+#landing{
+    text-align: center;
+}
+
+#profile{
+    height: 300px;
+    width: 300px;
+    border-radius: 80px;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#name{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+#title{
+    margin-top: 4px;
+    margin-bottom: 16px;
+}
+
+#intro{
+    width: 200px;
+    margin: auto;
+}
+
+#tools{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+#tools-title{
+    margin-bottom: 16px;
+}
+
+#contact{
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+#social{
+    text-align: center;
+    margin: 1rem;
+}
